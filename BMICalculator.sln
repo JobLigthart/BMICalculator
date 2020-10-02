@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculator", "BMICalculator.csproj", "{C2EE7AA4-B54D-4CB6-B2A0-E112767522F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMIRekenFormule", "..\BMIRekenFormule\BMIRekenFormule.csproj", "{3F369B2C-7488-4623-A3C5-9E057460401C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C2EE7AA4-B54D-4CB6-B2A0-E112767522F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2EE7AA4-B54D-4CB6-B2A0-E112767522F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2EE7AA4-B54D-4CB6-B2A0-E112767522F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F369B2C-7488-4623-A3C5-9E057460401C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F369B2C-7488-4623-A3C5-9E057460401C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F369B2C-7488-4623-A3C5-9E057460401C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F369B2C-7488-4623-A3C5-9E057460401C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
